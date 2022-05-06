@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  usuario: 'usuario',
+  clave: 'clave',
+  basepersona:'http://localhost:5000/api/personas'
 };
 
 /*
